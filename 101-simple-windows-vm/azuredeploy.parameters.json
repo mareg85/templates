@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "sh-azurestore1"
+      "value": "maregstore1"
     },
     "adminUsername": {
       "value": "admin123"
